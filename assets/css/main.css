@@ -304,8 +304,8 @@ a, button {
 }
 
 .menu li a {
-  width: 60px;
-  height: 60px;
+  width: 70px;
+  height: 65px;
   display: block;
   border-radius: 1rem;
   transition: all 0.3s ease;
@@ -344,7 +344,7 @@ a, button {
 }
 
 header {
-  width: 80px;
+  width: 85px;
   border-radius: 0 1.25rem 1.25rem 0;
   position: fixed;
   z-index: 1030;
@@ -695,6 +695,7 @@ canvas.particles-js-canvas-el {
 .services .services-item {
   padding: 30px 10px;
   margin-top: 30px;
+  height: 90%;
 }
 
 .services .services-item:hover .services-icon {
@@ -715,6 +716,7 @@ canvas.particles-js-canvas-el {
 
 .testimonial .owl-carousel .testimonial-item {
   padding: 0 30px 30px;
+  height: 400px;
 }
 
 .testimonial .owl-carousel .testimonial-item img {
