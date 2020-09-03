@@ -5,7 +5,7 @@
            Hero
 -------------------------*/
 .hero-01{
-    background: url("http://placehold.it/1920x1280");
+    background: url("https://placehold.it/1920x1280");
     @include bg-hero;
 
     &::before{
@@ -17,12 +17,12 @@
     }
 }
 .hero-02 {
-    background: url("http://placehold.it/1920x1280");
+    background: url("https://placehold.it/1920x1280");
     @include bg-hero;
     background-position: center;
 }
 .hero-03 {
-    background: url("http://placehold.it/1920x1280");
+    background: url("https://placehold.it/1920x1280");
     @include bg-hero;
     background-position: center;
 }
