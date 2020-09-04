@@ -218,11 +218,11 @@ a, button {
 }
 
 .color-switcher ul.pattern .color1 {
-  background: #1ab394;
+  background: #2672ce;
 }
 
 .color-switcher ul.pattern .color2 {
-  background: #fbdd62;
+  background: #71c5e8;
 }
 
 .color-switcher ul.pattern .color3 {
@@ -242,7 +242,7 @@ a, button {
 }
 
 .color-switcher ul.pattern .color7 {
-  background: #ff645e;
+  background: #c9ef2f;
 }
 
 .color-switcher ul.pattern .color8 {
@@ -571,7 +571,7 @@ canvas.particles-js-canvas-el {
   overflow: hidden;
   width: 85px;
   height: 85px;
-  background: #fbdd62;
+  background: #71c5e8;
   top: 150px;
   right: 34px;
   animation: circling 18s linear infinite;
@@ -594,7 +594,7 @@ canvas.particles-js-canvas-el {
   overflow: hidden;
   width: 55px;
   height: 55px;
-  background: #ff645e;
+  background: #c9ef2f;
   top: 250px;
   bottom: 250px;
   left: 80px;
@@ -620,7 +620,7 @@ canvas.particles-js-canvas-el {
   overflow: hidden;
   width: 50px;
   height: 50px;
-  background: #1ab394;
+  background: #2672ce;
   top: 10px;
   right: 40px;
   z-index: 1;

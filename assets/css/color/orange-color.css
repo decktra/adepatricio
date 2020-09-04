@@ -14,7 +14,7 @@
 }
 
 .base-color {
-  color: #ff645e !important;
+  color: #c9ef2f !important;
 }
 
 .hero-social li a:hover, .blog-link a:hover {
@@ -22,7 +22,7 @@
 }
 
 .bg-base-color {
-  background-color: #ff645e !important;
+  background-color: #c9ef2f !important;
 }
 
 .follow-label:before,
@@ -31,11 +31,11 @@
 .testimonial .testimonial-border,
 .blog-content:before,
 .blog .owl-dot.active span {
-  background: #ff645e;
+  background: #c9ef2f;
 }
 
 .testimonial .owl-dot.active span {
-  background: #ff645e !important;
+  background: #c9ef2f !important;
 }
 
 .menu li a,
@@ -54,16 +54,16 @@ header .navbar-brand b,
 .blog-content button:hover,
 .comments .comment-info a:hover,
 .social a:hover {
-  color: #ff645e;
+  color: #c9ef2f;
 }
 
 .loader {
-  border-top: 4px solid #ff645e !important;
+  border-top: 4px solid #c9ef2f !important;
 }
 
 .timeline-icon {
-  border: 1px solid #ff645e;
-  background-color: #ff645e;
+  border: 1px solid #c9ef2f;
+  background-color: #c9ef2f;
 }
 
 .portfolio .portfolio-item-content::before {
@@ -71,22 +71,22 @@ header .navbar-brand b,
 }
 
 .menu-toggler span {
-  background-color: #ff645e;
+  background-color: #c9ef2f;
 }
 
 .timeline-item:before {
-  border: 2px solid #ff645e;
+  border: 2px solid #c9ef2f;
 }
 
 .timeline-item:before {
-  border: 1px solid #ff645e;
+  border: 1px solid #c9ef2f;
 }
 
 /*-------------------------
       Flat Demo
 -------------------------*/
 .flat-demo .button-border, .arshia-dark.flat-demo .button-border {
-  background-color: #ff645e;
+  background-color: #c9ef2f;
 }
 
 .flat-demo .pill-button:hover, .flat-demo .pill-button.active {

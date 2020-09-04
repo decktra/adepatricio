@@ -41,7 +41,7 @@
 }
 
 .portfolio .portfolio-icon button {
-  background-color: #1ab394;
+  background-color: #2672ce;
   color: #fafafa;
 }
 
@@ -51,7 +51,7 @@
 }
 
 .blog-link a {
-  color: #1ab394 !important;
+  color: #2672ce !important;
 }
 
 .blog-link a:hover {
@@ -68,7 +68,7 @@
 }
 
 .flat-demo .portfolio .pill-button:hover, .flat-demo .portfolio .pill-button.active {
-  background-color: #1ab394 !important;
+  background-color: #2672ce !important;
 }
 
 .flat-demo .portfolio .portfolio-item-content {
