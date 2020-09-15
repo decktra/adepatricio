@@ -80,6 +80,7 @@ for( var i =0; i < allDivs.length; ++i )
                                    FUNCTIONS
 -----------------------------------------------------------------------------*/
 $("#menu > li a").on("click" , function () {
+    console.log("KOKOKO");
     $("#main > section.active, #menu > li a").removeClass("active");
     $(this).addClass('active');
     var $id = $(this).attr('href');
